@@ -1,0 +1,7 @@
+<resources>
+    <color name="buttonColor">#6200EE</color>
+    <color name="textColor">#FFFFFF</color> <!-- White text -->
+    <color name="backgroundColor">#000000</color> <!-- Black background -->
+    <color name="inputBackground">#222222</color> <!-- Dark gray for input fields -->
+    <color name="inputTextColor">#FFFFFF</color> <!-- White text in input fields -->
+</resources>
